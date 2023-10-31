@@ -1,7 +1,7 @@
 # Problem:
 Required faster prediction to avoid any casualities.
 1. Lung cancer has multiple symptoms that we can used to predict whether a person has Lung cancer or Not.
-2. Purpose is to develop machine learning model for disease prediction based on symptoms.
+2. Purpose is to train machine learning model for disease prediction based on symptoms.
 # Binary classification problem
 1. Cancer -> Yes,No
 2. dataset: https://www.kaggle.com/datasets/ajisofyan/survey-lung-cancer
